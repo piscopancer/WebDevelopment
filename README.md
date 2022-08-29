@@ -10,7 +10,7 @@
 # Youtube 
 https://www.youtube.com/c/REDGroup - RedGroup, крутой мужик самоучка, фронтендер
 
-# Frameworks
+# Фреймворки, сниппеты
 <ul>
   <li>Tailwind</li>
   <li>View</li>

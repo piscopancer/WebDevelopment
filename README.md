@@ -19,3 +19,9 @@ https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
   <li>Redux</li>
   <li>Emmet</li>
 </ul>
+
+# Сайты для обучения
+<ul>
+  <li>https://www.w3schools.com/css/default.asp</li>
+</ul>
+

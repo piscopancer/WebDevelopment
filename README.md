@@ -9,6 +9,7 @@
 
 # Youtube 
 https://www.youtube.com/c/REDGroup - RedGroup, крутой мужик самоучка, фронтендер
+https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
 
 # Фреймворки, сниппеты
 <ul>

@@ -22,6 +22,6 @@ https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
 
 # Сайты для обучения
 <ul>
-  <li>https://www.w3schools.com/css/default.asp</li>
+  <li>https://www.w3schools.com/css/default.asp - зеленый сайт, на английском</li>
 </ul>
 

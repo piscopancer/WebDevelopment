@@ -1,4 +1,4 @@
-# IDE
+#IDE
 <ul>
   <li>Atom - говно</li>
   <li>Notepad - говно</li>
@@ -7,11 +7,11 @@
   <li><i>Visual Studio Code - бесплатный, быстрый, красивый, тонна плагинов от огромного комьюнити</i></li>
 </ul>
 
-# Youtube 
+#Youtube 
 https://www.youtube.com/c/REDGroup - RedGroup, крутой мужик самоучка, фронтендер<br>
 https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
 
-# Фреймворки, сниппеты
+#Фреймворки, сниппеты
 <ul>
   <li>Tailwind</li>
   <li>View</li>
@@ -20,7 +20,7 @@ https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
   <li>Emmet</li>
 </ul>
 
-# Сайты для обучения
+#Сайты для обучения
 <ul>
   <li>https://www.w3schools.com/css/default.asp - зеленый сайт, на английском</li>
 </ul>

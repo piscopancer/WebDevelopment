@@ -20,6 +20,7 @@ https://www.youtube.com/c/BrainsCloud - BrainsCloud, верстальщик
   <li>React</li>
   <li>Redux</li>
   <li>Emmet</li>
+  <li>GSAP</li>
 </ul>
 
 # Сайты для обучения
